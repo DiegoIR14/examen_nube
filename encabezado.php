@@ -17,7 +17,7 @@
     <!-- Definición del menú -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
         <a class="navbar-brand" target="_blank" href="https://tecsup.instructure.com/courses/25788">
-        PostgreSQL-PHP | Por Walter Moncada
+        PostgreSQL-PHP | Por Diego Isla
         </a>
         <div class="collapse navbar-collapse" id="miNavbar">
             <ul class="navbar-nav mr-auto">
