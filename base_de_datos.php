@@ -5,7 +5,7 @@ Credenciales para la conexion DB
 $contraseña = "rwJsdZvGtFb85wUcvwAL";
 $usuario = "postgres";
 $nombreBaseDeDatos = "railway";
-$rutaServidor = "postgresql://postgres:rwJsdZvGtFb85wUcvwAL@containers-us-west-148.railway.app:6944/railway";
+$rutaServidor = "containers-us-west-148.railway.app";
 $puerto = "6944";
 try {
     $base_de_datos = new PDO("pgsql:host=$rutaServidor;port=$puerto;dbname=$nombreBaseDeDatos", $usuario, $contraseña);
